@@ -1,0 +1,3 @@
+.form-control-label:first-letter{
+    text-transform:capitalize;
+}
